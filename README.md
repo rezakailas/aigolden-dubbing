@@ -5,6 +5,7 @@
 ## 🌟 نوتبوک‌های جدید (2026)
 | نسخه | توضیحات | لینک اجرا |
 |------|---------|-----------|
+| ⚡ 3.1 Live Translate | NO UI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/aigolden-dubbing/blob/main/Dub_New.ipynb) |
 | 📺 دوبله یوتیوب | دوبله مستقیم ویدیوهای یوتیوب | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/aigolden-dubbing/blob/main/aigolden_2026_YT_Dub.ipynb) |
 | 🎞️ دوبله شورت ویدیو | برای ویدیوهای کوتاه | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/aigolden-dubbing/blob/main/aigolden_Short_Dub.ipynb) |
 | 🎬 دوبله ویدیو | برای ویدیوهای معمولی | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/aigolden-dubbing/blob/main/aigolden_2025_08Dub_NOUI.ipynb) |
